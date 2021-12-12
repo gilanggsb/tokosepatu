@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881414486830",
+    "project_id": "tokosepatu-5b15d",
+    "storage_bucket": "tokosepatu-5b15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881414486830:android:7f80ea168fc0ae7a0118bf",
+        "android_client_info": {
+          "package_name": "com.gilang.tokosepatu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881414486830-ovln8vvfn8bfa267ts757kslh4v3cmq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZBGYZftStt-wuIvOxvXKKE1E0YnSuc-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881414486830-ovln8vvfn8bfa267ts757kslh4v3cmq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
